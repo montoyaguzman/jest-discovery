@@ -1,4 +1,4 @@
-import  { sumNums, subsNums, mutiplyNums, divideNums }  from '../maths.js'
+import  { sumNums, subsNums, mutiplyNums, divideNums }  from '../maths'
 
 describe('Math Operations', () => {
     test('Test for sumNums', () => {

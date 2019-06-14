@@ -5,7 +5,7 @@ describe('Users Matchers', () => {
     }
     const inputExpect = {
         name: 'Jose',
-        lastname: 'Montoya2'
+        lastname: 'Montoya'
     }
 
     test('Compare objects', () => {
